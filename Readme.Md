@@ -33,56 +33,14 @@ Attrition
 #### 6. Best Accuracy Train - 97.58%(Epoch 50) Test - 88.83%(Epoch 50)
 
 ### Train & Test Acc Curves Twinx
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/Train%20&%20Test%20Acc%20Curves%20Twinx.png" width="550" title="Twinx">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/a.png" width="550" title="Twinx">
                                                                                                                                          
 ### Gradcam Images
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_0_car.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/b.png" width="550" title="car">
 
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_1_truck.png" width="550" title="truck">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_2_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_3_dog.png" width="550" title="dog">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_4_dog.png" width="550" title="dog">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_5_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_6_dog.png" width="550" title="dog">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_7_horse.png" width="550" title="horse">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_8_bird.png" width="550" title="bird">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_9_ship.png" width="550" title="ship">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_10_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_11_plane.png" width="550" title="plane">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_12_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_13_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_14_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_15_frog.png" width="550" title="frog">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_16_bird.png" width="550" title="bird">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_17_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_18_plane.png" width="550" title="plane">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_19_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_20_deer.png" width="550" title="deer">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_21_deer.png" width="550" title="deer">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_22_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_23_cat.png" width="550" title="cat">
-
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_24_car.png" width="550" title="car">
-
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/c.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/d.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/e.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/f.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/g.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="car">
