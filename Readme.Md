@@ -1,4 +1,6 @@
 ### Employee Attrition
+##### Repo: https://github.com/haricharanvihari/Employee-Attrition
+
 #####  In the study, we will understand the dataset and the features available for analysis/prediction.
 #####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
 
