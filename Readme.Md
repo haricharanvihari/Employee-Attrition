@@ -1,5 +1,3 @@
-Attrition
-
 ### Employee Attrition
 ####  In the study, we will understand the dataset and the features available for analysis/prediction.
 ####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
@@ -8,10 +6,10 @@ Attrition
 #### Dataset is sourced from IBM site, a dummy dataset for analysing patterns in employee Attrition.
 #### The same dataset is used to analyse various features, predict when employees are going to leave.
 
-### Train & Test Acc Curves Twinx
+### Analysis on Existing Dataset
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/a.png" width="550" title="Twinx">
                                                                                                                                          
-### Analysis on Existing Dataset
+
 #### Overview of the features in dataset
 
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/b.png" width="550" title="car">
