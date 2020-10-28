@@ -37,3 +37,5 @@
 #### Important features from the dataset
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="featur">
 
+#### Powerbi Dashboard Build for features
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/Employee Attrition dashboard-Pbi.PNG" width="550" title="Pbi">
