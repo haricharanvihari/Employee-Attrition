@@ -17,10 +17,10 @@
 #### Attrition rate is high for employees with age range of 28-31
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/b.png" width="550" title="age">
 
-#### Sales Rep, Lab technicians have more % of leavers
+#### Fields related to Sales Rep, Lab technicians have more % of leavers
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/c.PNG" width="550" title="dept">
 
-#### People with Avg of 3 yrs in Org. see more attrition
+#### People with Avg of 3 yrs in Org. add to attrition compared to others
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/d.PNG" width="550" title="exp">
 
 #### Employees with 2 yrs in same role tend to leave when compared to others
@@ -29,7 +29,7 @@
 #### People with 5-7 Years exp tend to leave more
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/f.PNG" width="550" title="exp1">
 
-#### People with Income less then or equal to 3k see an incease in attrition
+#### People with Income less then or equal to 3k choose to leave Org.
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/g.PNG" width="550" title="inc">
 
 #### Algorithm chosen based on Accuracy: Random Forest
@@ -40,5 +40,5 @@
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="featur">
 
 
-#### Powerbi Dashboard Build sample for couple features in Dataset
+#### Powerbi Dashboard Build sample for couple of features in Dataset
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/Employee Attrition dashboard-Pbi.PNG" width="550" title="Pbi">
