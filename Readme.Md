@@ -1,46 +1,30 @@
 Attrition
 
-### S10 Implementing LR
-#### 1.	Add CutOut from transformations (albumentations)
-#### 2.	Implement LR Finder (for SGD, not for ADAM) Source: https://github.com/davidtvs/pytorch-lr-finder
-#### 3.	Implement ReduceLROnPlatea Source: https://pytorch.org/docs/stable/optim.html#torch.optim.lr_scheduler.ReduceLROnPlateau
-#### 4.	Find best LR to train your model
-#### 5.	Use SDG with Momentum
-#### 6.	Train for 50 Epochs.
-#### 7.	Show Training and Test Accuracy curves
-#### 8.	Target 88% Accuracy.
-#### 9.	Run GradCAM on the any 25 misclassified images. Make sure to mention what is the prediction and what was the ground truth label.
+### Employee Attrition
+####  In the study, we will understand the dataset and the features available for analysis/prediction.
+####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
 
-
-### Results:
-#### Arranging file structure
-
------|models </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---  __init.py__ <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- *Resnet* Files , resnetbase <br>
-------|dataloader.py <br>
-------|datamodel.py </br>
-------|gradcam.py <br>
-------|lrfinder.py  <br>
-------|optimizer.py <br>
-------|transformation.py <br>
-
-#### 1.	Added Dropout in Albumentation
-#### 2.	Implemented LR Finder for SGD taken from Source: https://github.com/davidtvs/pytorch-lr-finder
-#### 3.	Implemented ReduceLROnPlatea. Source: https://pytorch.org/docs/stable/optim.html#torch.optim.lr_scheduler.ReduceLROnPlateau
-#### 4.	Best Learning Rate - 0.001
-#### 5.	Accuracies in Last few epochs ranging Train 97.4%, Test: 88.5%
-#### 6. Best Accuracy Train - 97.58%(Epoch 50) Test - 88.83%(Epoch 50)
+### Source::
+#### Dataset is sourced from IBM site, a dummy dataset for analysing patterns in employee Attrition.
+#### The same dataset is used to analyse various features, predict when employees are going to leave.
 
 ### Train & Test Acc Curves Twinx
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/a.png" width="550" title="Twinx">
                                                                                                                                          
-### Gradcam Images
+### Analysis on Existing Dataset
+#### Overview of the features in dataset
+
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/b.png" width="550" title="car">
 
+#### Attrition rate is high for employees with age range of 28-31
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/c.PNG" width="550" title="car">
+#### Sales Rep, Lab technicians have more % of leavers
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/d.PNG" width="550" title="car">
+#### People with Avg of 3 yrs in Org. see more attrition
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/e.PNG" width="550" title="car">
+#### Employees with 2 yrs in same role tend to leave when compared to others
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/f.PNG" width="550" title="car">
+#### People with 5-7 Years exp tend to leave more
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/g.PNG" width="550" title="car">
+#### People with Income less then or equal to 3k see an incease in attrition
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="car">
