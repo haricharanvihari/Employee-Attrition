@@ -2,6 +2,9 @@
 #####  In the study, we will understand the dataset and the features available for analysis/prediction.
 #####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
 
+#### Powerbi Dashboard Build for features
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/Employee Attrition dashboard-Pbi.PNG" width="550" title="Pbi">
+
 ### Source::
 ##### Dataset is sourced from IBM site, a dummy dataset for analysing patterns in employee Attrition.
 ##### The same dataset is used to analyse various features, predict when employees are going to leave.
@@ -37,5 +40,3 @@
 #### Important features from the dataset
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="featur">
 
-#### Powerbi Dashboard Build for features
-<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/Employee Attrition dashboard-Pbi.PNG" width="550" title="Pbi">
