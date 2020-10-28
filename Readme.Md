@@ -13,7 +13,7 @@
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/a.png" width="550" title="Twinx">
                                                                                                                                          
 
-
+### Analysis by various features
 #### Attrition rate is high for employees with age range of 28-31
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/b.png" width="550" title="age">
 
