@@ -38,9 +38,9 @@ Attrition
 ### Gradcam Images
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/b.png" width="550" title="car">
 
-<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/c.png" width="550" title="car">
-<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/d.png" width="550" title="car">
-<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/e.png" width="550" title="car">
-<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/f.png" width="550" title="car">
-<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/g.png" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/c.PNG" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/d.PNG" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/e.PNG" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/f.PNG" width="550" title="car">
+<img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/g.PNG" width="550" title="car">
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="car">
