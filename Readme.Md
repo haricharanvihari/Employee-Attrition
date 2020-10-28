@@ -1,10 +1,10 @@
 ### Employee Attrition
-####  In the study, we will understand the dataset and the features available for analysis/prediction.
-####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
+#####  In the study, we will understand the dataset and the features available for analysis/prediction.
+#####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
 
 ### Source::
-#### Dataset is sourced from IBM site, a dummy dataset for analysing patterns in employee Attrition.
-#### The same dataset is used to analyse various features, predict when employees are going to leave.
+##### Dataset is sourced from IBM site, a dummy dataset for analysing patterns in employee Attrition.
+##### The same dataset is used to analyse various features, predict when employees are going to leave.
 
 ### Analysis on Existing Dataset
 #### Overview of the features in dataset
@@ -31,8 +31,8 @@
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/g.PNG" width="550" title="inc">
 
 #### Algorithm chosen based on Accuracy: Random Forest
-#### CV Accuracy: 85.3
-#### Final AUC Score:81.8
+##### CV Accuracy: 85.3
+##### Final AUC Score:81.8
 
 #### Important features from the dataset
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/h.png" width="550" title="featur">
