@@ -46,3 +46,6 @@
 
 #### Powerbi Dashboard Build sample from Dataset
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/Employee Attrition dashboard-Pbi.PNG" width="550" title="Pbi">
+
+##### Repo : https://github.com/haricharanvihari/Employee-Attrition/blob/main/Employee_Attrition_Analysis_from_Dataset.ipynb
+##### Repo : https://github.com/haricharanvihari/Employee-Attrition/blob/main/Employee_Attrition_Predictions_%26_Feature_Importance.ipynb
