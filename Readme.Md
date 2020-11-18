@@ -4,7 +4,7 @@
 #####  In the study, we will understand the dataset and the features available for analysis/prediction.
 #####  We can identify various factors why an employee is leaving. Decisions can be taken further to make any changes to retain employees.
 
-#### Sample Powerbi Dashboard created based on important features & correlations by making use of sample dataset.
+#### Sample Powerbi Dashboard created based on important features & correlations from sample dataset.
 <img src="https://github.com/haricharanvihari/Employee-Attrition/blob/main/Images/Employee Attrition dashboard-Pbi.PNG" width="550" title="Pbi">
 
 
